@@ -77,5 +77,11 @@ footer {
 }
 #apDiv1 {
     background-color: #B7A9BE;
-    border-radius: 20px;
+    border-radius: 18px;
+    border-width: thick;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+    padding-left: 5px;
 }
