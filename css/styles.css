@@ -85,3 +85,17 @@ footer {
     padding-bottom: 15px;
     padding-left: 5px;
 }
+h1 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 69px;
+    margin-left: 25px;
+}
+aside h2 {
+    margin-left: 18px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    font-style: italic;
+    font-variant: normal;
+}
